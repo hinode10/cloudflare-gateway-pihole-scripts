@@ -12,6 +12,7 @@ urls=(
   https://adaway.org/hosts.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+  https://abpvn.com/vip/dbminh.txt
 )
 
 # download all files in parallel and append them to input.csv
