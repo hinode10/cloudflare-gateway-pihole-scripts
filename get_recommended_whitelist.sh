@@ -28,6 +28,8 @@ urls=(
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt
     https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt
+    https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+    https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
     # Commented out because it whitelists sites including doubleclick.net and ad.atdmt.com
     # https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt
     # Uncomment the line below to use OISD's most commmonly whitelisted list
